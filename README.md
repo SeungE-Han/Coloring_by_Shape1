@@ -11,5 +11,4 @@
 
 -blue → red
 
-![image](https://user-images.githubusercontent.com/78711364/116350715-5c45b900-a82d-11eb-914c-d6bec430d706.png)
-
+![캡처](https://user-images.githubusercontent.com/78711364/116351561-dc205300-a82e-11eb-80ef-54fa73c7eaf3.JPG)
